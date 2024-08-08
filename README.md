@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Personal Matrix
 
 Hi there! I'm **Saumitra Tandon**, an Electrical Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
 
