@@ -41,7 +41,7 @@ Thanks for stopping by!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaumitraTandon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Words of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
