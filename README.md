@@ -1,6 +1,6 @@
 # 💫 Personal Matrix
 
-Hi there! I'm **Saumitra Tandon**, an Electrical Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
+Hi there! I'm **Saumitra Tandon**, an Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
 
 ## 🌟 Key Interests
 - **Machine Learning**: I've worked on various projects that involve fine-tuning large language models, real-time OCR, text-to-speech conversion, and customer sentiment analysis.
@@ -43,9 +43,3 @@ Thanks for stopping by!
 
 ### ✍️ Words of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SaumitraTandon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
