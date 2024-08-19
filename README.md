@@ -44,7 +44,6 @@ Thanks for stopping by!
 ### ✍️ Words of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Snake Animation
 ![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
 
 
