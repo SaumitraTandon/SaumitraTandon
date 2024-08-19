@@ -23,12 +23,18 @@ Hi there! I'm **Saumitra Tandon**, an Engineering student at the **National Inst
 
 Feel free to check out my repositories and projects. I'm always open to collaborating on interesting projects and learning new things!
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumitra-tandon-1031a5262) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellosaumitra@gmail.com)
-
-Thanks for stopping by!
-
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+    <div style="flex-grow: 1;">
+        <h2>🌐 Connect with Me</h2>
+        <a href="https://linkedin.com/in/saumitra-tandon-1031a5262" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:hellosaumitra@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <p>Thanks for stopping by!</p>
+    </div>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumitra-tandon-1031a5262) 
