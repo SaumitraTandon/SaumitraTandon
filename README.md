@@ -43,3 +43,6 @@ Thanks for stopping by!
 
 ### ✍️ Words of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
