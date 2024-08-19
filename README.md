@@ -1,6 +1,3 @@
-![Coding_Sticker](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0P2z-MEaMOeiRZ0G8qjQgs&ust=1724160077646000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi-4_uSgYgDFQAAAAAdAAAAABAE)
-
-
 # 💫 Personal Matrix
 
 Hi there! I'm **Saumitra Tandon**, an Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
