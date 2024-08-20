@@ -1,7 +1,7 @@
 
-# 💫 Personal Matrix
+#  👨‍💻 Hello Dev!
 
-Hi there! I'm **Saumitra Tandon**, an Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
+I'm **Saumitra Tandon**, an Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
 
 ![GIF](https://github.com/SaumitraTandon/SaumitraTandon/blob/main/images/coding%20gif.gif)
 
