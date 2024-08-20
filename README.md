@@ -1,8 +1,9 @@
-![GIF](https://github.com/SaumitraTandon/SaumitraTandon/blob/main/images/coding%20gif.gif)
 
 # 💫 Personal Matrix
 
 Hi there! I'm **Saumitra Tandon**, an Engineering student at the **National Institute of Technology Hamirpur**. I have a passion for machine learning and renewable energy solutions.
+
+![GIF](https://github.com/SaumitraTandon/SaumitraTandon/blob/main/images/coding%20gif.gif)
 
 ## 🌟 Key Interests
 - **Machine Learning**: I've worked on various projects that involve fine-tuning large language models, real-time OCR, text-to-speech conversion, and customer sentiment analysis.
