@@ -76,13 +76,13 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 <table>
   <tr>
     <td>
-      **Video 1: Simple Linear Regression**<br>
+      Simple Linear Regression<br>
       <a href="https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel" target="_blank">
         <img src="https://img.youtube.com/vi/jlQr2LVyzk0/0.jpg" alt="Watch the video" width="180" height="101" />
       </a>
     </td>
     <td>
-      **Video 2: Multiple Linear Regression **<br>
+        Multiple Linear Regression <br>
       <a href="https://www.youtube.com/watch?v=eaRsx_i-rRc&t=45s&ab_channel=NotAMachineLearningChannel" target="_blank">
         <img src="https://img.youtube.com/vi/eaRsx_i-rRc/0.jpg" alt="Watch the video" width="180" height="101" />
       </a>
