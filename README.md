@@ -71,10 +71,9 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 ## Check out my YouTube Channel
 
-### Video 1: [Title of Your Video]
-[![Watch the video](https://img.youtube.com/vi/jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel/0.jpg)](https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel)
+### Video 1: Introduction to Machine Learning
+[![Watch the video](https://img.youtube.com/vi/jlQr2LVyzk0/0.jpg)](https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel)
 
-[Visit my YouTube Channel](https://www.youtube.com/channel/@N_A_ML_C)
-
+[Visit my YouTube Channel](https://www.youtube.com/@N_A_ML_C)
 
 ![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
