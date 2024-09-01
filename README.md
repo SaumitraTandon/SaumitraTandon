@@ -71,21 +71,10 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 ## Check out my YouTube Channel
 
-### Video 1: [Regression Series : Simple Linear Regression]
-<a href="https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel" target="_blank">
-  <img src="https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel/0.jpg" alt="Watch the video" width="320" height="180" />
-</a>
+### Video 1: [Title of Your Video]
+[![Watch the video](https://img.youtube.com/vi/jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel/0.jpg)](https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel)
 
-### Video 2: [Title of Your Video]
-<a href="https://www.youtube.com/watch?v=your_video_id_2" target="_blank">
-  <img src="https://img.youtube.com/vi/your_video_id_2/0.jpg" alt="Watch the video" width="320" height="180" />
-</a>
+[Visit my YouTube Channel](https://www.youtube.com/channel/N_A_ML_C)
 
-### Video 3: [Title of Your Video]
-<a href="https://www.youtube.com/watch?v=your_video_id_3" target="_blank">
-  <img src="https://img.youtube.com/vi/your_video_id_3/0.jpg" alt="Watch the video" width="320" height="180" />
-</a>
-
-[Visit my YouTube Channel](https://www.youtube.com/@N_A_ML_C)
 
 ![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
