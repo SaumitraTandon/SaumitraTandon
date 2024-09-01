@@ -69,6 +69,8 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 </div>
 
+![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
+
 ## Check out my [YouTube Channel](https://www.youtube.com/@N_A_ML_C)
 
 ### Videos
@@ -89,5 +91,3 @@ Feel free to check out my repositories and projects. I'm always open to collabor
     </td>
   </tr>
 </table>
-
-![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
