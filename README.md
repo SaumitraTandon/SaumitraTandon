@@ -69,11 +69,25 @@ Feel free to check out my repositories and projects. I'm always open to collabor
 
 </div>
 
-## Check out my YouTube Channel
+## Check out my [YouTube Channel](https://www.youtube.com/@N_A_ML_C)
 
-### Video 1: Introduction to Machine Learning
-[![Watch the video](https://img.youtube.com/vi/jlQr2LVyzk0/0.jpg)](https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel)
+### Videos
 
-[Visit my YouTube Channel](https://www.youtube.com/@N_A_ML_C)
+<table>
+  <tr>
+    <td>
+      **Video 1: Simple Linear Regression**<br>
+      <a href="https://www.youtube.com/watch?v=jlQr2LVyzk0&ab_channel=NotAMachineLearningChannel" target="_blank">
+        <img src="https://img.youtube.com/vi/jlQr2LVyzk0/0.jpg" alt="Watch the video" width="180" height="101" />
+      </a>
+    </td>
+    <td>
+      **Video 2: Multiple Linear Regression **<br>
+      <a href="https://www.youtube.com/watch?v=eaRsx_i-rRc&t=45s&ab_channel=NotAMachineLearningChannel" target="_blank">
+        <img src="https://img.youtube.com/vi/eaRsx_i-rRc/0.jpg" alt="Watch the video" width="180" height="101" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![Snake animation](https://github.com/SaumitraTandon/SaumitraTandon/blob/output/snake.svg)
