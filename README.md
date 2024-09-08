@@ -84,7 +84,7 @@ Feel free to check out my repositories and projects. I'm always open to collabor
       </a>
     </td>
     <td>
-      Multiple Linear Regression <br>
+      Multiple Linear Regression<br>
       <a href="https://www.youtube.com/watch?v=eaRsx_i-rRc&t=45s&ab_channel=NotAMachineLearningChannel" target="_blank">
         <img src="https://img.youtube.com/vi/eaRsx_i-rRc/0.jpg" alt="Watch the video" width="180" height="101" />
       </a>
@@ -95,6 +95,17 @@ Feel free to check out my repositories and projects. I'm always open to collabor
         <img src="https://img.youtube.com/vi/WDgtI3Sr9sg/0.jpg" alt="Watch the video" width="180" height="101" />
       </a>
     </td>
+    <td>
+      Support Vector Regression<br>
+      <a href="https://www.youtube.com/watch?v=WfvxAFDrLFM&ab_channel=NotAMachineLearningChannel" target="_blank">
+        <img src="https://img.youtube.com/vi/WfvxAFDrLFM/0.jpg" alt="Watch the video" width="180" height="101" />
+      </a>
+    </td>
+    <td>
+      Decision Tree Regression<br>
+      <a href="https://www.youtube.com/watch?v=fDRzDZ6stHg&ab_channel=NotAMachineLearningChannel" target="_blank">
+        <img src="https://img.youtube.com/vi/fDRzDZ6stHg/0.jpg" alt="Watch the video" width="180" height="101" />
+      </a>
+    </td>
   </tr>
 </table>
-
